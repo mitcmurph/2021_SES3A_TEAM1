@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.js": "/2021_SES3A_TEAM1/static/js/main.27e46cbd.chunk.js",
+    "main.js.map": "/2021_SES3A_TEAM1/static/js/main.27e46cbd.chunk.js.map",
+    "runtime-main.js": "/2021_SES3A_TEAM1/static/js/runtime-main.75da20ec.js",
+    "runtime-main.js.map": "/2021_SES3A_TEAM1/static/js/runtime-main.75da20ec.js.map",
+    "static/js/2.66a68d28.chunk.js": "/2021_SES3A_TEAM1/static/js/2.66a68d28.chunk.js",
+    "static/js/2.66a68d28.chunk.js.map": "/2021_SES3A_TEAM1/static/js/2.66a68d28.chunk.js.map",
+    "index.html": "/2021_SES3A_TEAM1/index.html",
+    "static/js/2.66a68d28.chunk.js.LICENSE.txt": "/2021_SES3A_TEAM1/static/js/2.66a68d28.chunk.js.LICENSE.txt",
+    "static/media/agid-kaharuba.fa0c718f.png": "/2021_SES3A_TEAM1/static/media/agid-kaharuba.fa0c718f.png",
+    "static/media/andrew-do.023851ea.jpg": "/2021_SES3A_TEAM1/static/media/andrew-do.023851ea.jpg",
+    "static/media/andy-le.3d0c07b0.jpg": "/2021_SES3A_TEAM1/static/media/andy-le.3d0c07b0.jpg",
+    "static/media/bbt.d68f97f3.jpg": "/2021_SES3A_TEAM1/static/media/bbt.d68f97f3.jpg",
+    "static/media/brendon-tong.95a84cd6.png": "/2021_SES3A_TEAM1/static/media/brendon-tong.95a84cd6.png",
+    "static/media/bryan-dinh.e6b7bc5c.png": "/2021_SES3A_TEAM1/static/media/bryan-dinh.e6b7bc5c.png",
+    "static/media/bryanvr.c7fedf6b.gif": "/2021_SES3A_TEAM1/static/media/bryanvr.c7fedf6b.gif",
+    "static/media/burger.48f6bd89.jpg": "/2021_SES3A_TEAM1/static/media/burger.48f6bd89.jpg",
+    "static/media/burger2.4ddc0944.jpg": "/2021_SES3A_TEAM1/static/media/burger2.4ddc0944.jpg",
+    "static/media/calvin-dong.d8861291.jpg": "/2021_SES3A_TEAM1/static/media/calvin-dong.d8861291.jpg",
+    "static/media/herrick-feng.e9874db2.jpg": "/2021_SES3A_TEAM1/static/media/herrick-feng.e9874db2.jpg",
+    "static/media/kelvin-luong.b5e998a3.jpg": "/2021_SES3A_TEAM1/static/media/kelvin-luong.b5e998a3.jpg",
+    "static/media/lakshva-sharma.ce3a1353.jpg": "/2021_SES3A_TEAM1/static/media/lakshva-sharma.ce3a1353.jpg",
+    "static/media/matt.987a724d.jpg": "/2021_SES3A_TEAM1/static/media/matt.987a724d.jpg",
+    "static/media/mitchell-murphy.7b406ed8.png": "/2021_SES3A_TEAM1/static/media/mitchell-murphy.7b406ed8.png",
+    "static/media/mitchellvr.cc7e1eb8.gif": "/2021_SES3A_TEAM1/static/media/mitchellvr.cc7e1eb8.gif",
+    "static/media/pizza.e5cd0cb1.jpg": "/2021_SES3A_TEAM1/static/media/pizza.e5cd0cb1.jpg",
+    "static/media/vanisha-singh.0bf099f1.png": "/2021_SES3A_TEAM1/static/media/vanisha-singh.0bf099f1.png",
+    "static/media/vanishavr.f3125e3c.gif": "/2021_SES3A_TEAM1/static/media/vanishavr.f3125e3c.gif",
+    "static/media/vlad.3b63c784.jpg": "/2021_SES3A_TEAM1/static/media/vlad.3b63c784.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75da20ec.js",
+    "static/js/2.66a68d28.chunk.js",
+    "static/js/main.27e46cbd.chunk.js"
+  ]
+}
