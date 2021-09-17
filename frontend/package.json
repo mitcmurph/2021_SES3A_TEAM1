@@ -32,7 +32,7 @@
   "scripts": {
     "dev": "npm start",
     "start": "react-scripts start",
-    "build": "BUILD_PATH='../docs' react-scripts build",
+    "build": "BUILD_PATH='../docs/app' react-scripts build",
     "prod": "npm run build && node_modules/serve/bin/serve.js build/ -p 3000",
     "clean": "rm -r -f build node_modules",
     "test": "react-scripts test",
